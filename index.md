@@ -5,5 +5,8 @@
 ```
 #include<stdio.h>
 int main(){}
-
 ```
+
+- [x] Homework
+- [x] Assignment
+- [ ] Dishes
